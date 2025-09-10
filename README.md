@@ -79,4 +79,4 @@ This project is licensed under the **MIT License** — free to use and modify.
 
 ## 👨‍💻 Author
 
-Built with ❤️ by [**Kyrill-7**](https://github.com/Kyrill-7)  
+Built by [**Kyrill-7**](https://github.com/Kyrill-7)  
