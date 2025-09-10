@@ -1,0 +1,52 @@
+//
+//  .gitignore
+//  ToDoList
+//
+//  Created by Dhruv Chaudhari on 11/09/25.
+//
+
+# macOS
+.DS_Store
+
+# Xcode
+build/
+DerivedData/
+*.xcuserstate
+xcuserdata/
+*.moved-aside
+*.xcscmblueprint
+
+# Xcode workspace user settings (do NOT ignore your project file)
+*.xcworkspace/xcshareddata/
+!*.xcodeproj
+
+# Swift Package Manager
+Packages/
+.swiftpm
+# if you use SPM, keep Package.resolved (recommended)
+# Package.resolved
+
+# CocoaPods
+Pods/
+
+# Carthage
+Carthage/Build
+
+# Fastlane artifacts
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots
+fastlane/test_output
+
+# Signing / certificates / provisioning (never commit these)
+*.p12
+*.mobileprovision
+*.cer
+*.keychain
+
+# Archives (big)
+*.xcarchive
+
+# Others
+.idea/
+*.swp
