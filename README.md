@@ -22,7 +22,7 @@ Stay organized, boost productivity, and manage tasks with ease — all in a calm
 |-------------|----------|----------------|
 | ![Home](screenshots/home.png) | ![Add](screenshots/add.png) | ![Done](screenshots/done.png) |
 
-*(You can capture these screenshots in the iOS Simulator and save them in a `screenshots/` folder in your repo)*
+
 
 ---
 
